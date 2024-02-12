@@ -1,0 +1,47 @@
+.header{
+    background-color: #1f2937;
+}
+#logo{
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+}
+.navbar-left{
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    flex-direction: row;
+}
+.header, .navbar-left{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+.content-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.content-right{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+img{
+    margin: 50px;
+}
