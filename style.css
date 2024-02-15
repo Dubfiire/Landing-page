@@ -80,5 +80,49 @@ h1{
     text-align: center;
     margin-top: -15px;
 }
+.article-text{
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding-left: 50px;
+}
+h3{
+    padding-top: 150px;
+    font-size: 20px;
+    margin-left: -200px;
+}
+.sign-up-container{
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-color: #3382b3;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 10px;
+    padding: 50px;
+}
+h4{
+    color: #e5e7eb;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 100px;
+}
+.teaser{
+    color: #e5e7eb;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 100px;
+}
+.next-step{
+   border: 2px transparent #3382b3;
+   align-self: center;
+   margin-left: 500px;
+   margin-top: -15px;
+}
 
 
